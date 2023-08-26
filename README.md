@@ -9,5 +9,5 @@
   - Spring Cloud Bus
   - Rabbitmq
 
-- Encypt
+- Encryption
   - JDK Keytool(RSA)
